@@ -1,1 +1,1 @@
-I will be uploading here regulary a new works, from polish Spoj.
+I will be uploading here regulary a new tasks, from polish Spoj.
