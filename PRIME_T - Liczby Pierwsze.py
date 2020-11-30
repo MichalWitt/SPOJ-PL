@@ -1,9 +1,6 @@
-#  
-
-
-while True:
+ while True:
     try:
-        for a in range(1, 10000):#pierwsza petla wykona sie 10 000 razy, (tyle liczb zostanie zprawdzonych czy sa pierwsze)
+        for a in range(1, 10000):#pierwsza petla wykona sie 10 000 razy, (tyle liczb zostanie sprawdzonych czy sa pierwsze)
             n = int(input())
             if n > 10000 or n < 1: 
                 continue
