@@ -4,7 +4,7 @@ while True:
         dluga = (len(a))
         dlugb = (len(b))
        
-        if dluga or dlugb <= 2:         
+        if dluga or dlugb <= 999:         
                        
             if b == '==':
                 if a == c:
