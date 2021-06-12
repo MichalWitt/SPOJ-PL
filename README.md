@@ -1,1 +1,1 @@
-PYTHON, SPOJ PL
+My tasks solutions for https://pl.spoj.com/
